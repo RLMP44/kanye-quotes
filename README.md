@@ -8,5 +8,5 @@ Click on Kanye's face to get a random quote!
 Made with Python and Tkinter.
 
 <div id="header" align="center">
-  <img src="https://github.com/RLMP44/kanye-quotes/assets/109778611/83ee6838-a965-4324-ba5d-705b1de5e595" width="150" height="207"/>
+  <img src="https://github.com/RLMP44/kanye-quotes/assets/109778611/83ee6838-a965-4324-ba5d-705b1de5e595" width="225" height="310"/>
 </div>
